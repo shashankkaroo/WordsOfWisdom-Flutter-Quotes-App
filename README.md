@@ -6,6 +6,8 @@ A new Flutter application developed with Firestore and Firebase Authentication
 
 This project is a starting point for a Flutter application.
 
+Add your Google servives file from firebase console to your app for android and ios.
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
