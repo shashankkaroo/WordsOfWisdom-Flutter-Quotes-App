@@ -7,6 +7,7 @@ A new Flutter application developed with Firestore and Firebase Authentication
 This project is a starting point for a Flutter application.
 
 Add your Google services file from firebase console to your app for android and ios.
+https://www.digitalocean.com/community/tutorials/flutter-firebase-setup
 
 Add your secret key from Google services file into your info.plist (WordsOfWisdom-Quotes-App/ios/Runner/Info.plist)
 
