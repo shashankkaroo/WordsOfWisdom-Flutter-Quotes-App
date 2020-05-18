@@ -8,20 +8,7 @@ This project is a starting point for a Flutter application.
 
 Add your Google services file from firebase console to your app for android and ios.
 
-Replace this with your secret key at below location (for ios app)
-
-Location : WordsOfWisdom-Quotes-App/ios/Runner/Info.plist
-
-<array>
-        <dict>
-            <key>CFBundleTypeRole</key>
-            <string>Editor</string>
-            <key>CFBundleURLSchemes</key>
-            <array>
-                <string>com.googleusercontent.apps.... your key from Google services file..</string>
-            </array>
-        </dict>
-    </array>
+Add your secret key from Google services file into your info.plist (WordsOfWisdom-Quotes-App/ios/Runner/Info.plist)
 
 A few resources to get you started if this is your first Flutter project:
 
