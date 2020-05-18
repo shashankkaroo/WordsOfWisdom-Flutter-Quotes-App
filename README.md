@@ -1,6 +1,6 @@
-# wordsofwisdom
+# words of wisdom quotes application
 
-A new Flutter application.
+A new Flutter application developed with Firestore and Firebase Authentication
 
 ## Getting Started
 
