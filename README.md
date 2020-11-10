@@ -1,4 +1,4 @@
-# words of wisdom quotes application
+# words of wisdom flutter quotes application
 
 A new Flutter application developed with Firestore and Firebase Authentication
 
